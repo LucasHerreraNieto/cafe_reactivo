@@ -32,7 +32,45 @@ La aplicación debe permitir las siguientes funcionalidades:
 
 ---
 
+## Estructura de la Aplicación
 
+La aplicación en React debe contar con al menos los siguientes componentes:
+
+- **Header**: Componente que muestra el nombre de la cafetería y un menú de navegación.
+- **Footer**: Componente que incluye los datos de los integrantes del grupo (alumno).
+- **MainContent**: Contendrá el contenido principal del sitio web.
+- **MenuItem**: Componente reutilizable para mostrar el nombre, la descripción y el precio de un producto del menú.
+
+### Carpeta de Componentes
+
+Los componentes deberán estar organizados en una carpeta llamada `components` para mantener una estructura limpia y organizada.
+
+---
+
+## Tecnologías y Herramientas Utilizadas
+
+- **React**: Framework JavaScript para construir la interfaz de usuario.
+- **CSS**: Estilos para la aplicación (se puede utilizar CSS tradicional o librerías como Bootstrap o Tailwind).
+- **Google Maps API**: Para integrar el mapa interactivo.
+- **YouTube iFrame**: Para integrar videos en la página.
+
+---
+
+## Instalación
+
+1. Clonar el repositorio:
+
+   ```bash
+   git clone https://github.com/usuario/cafe-reactivo.git
+
+2. Instalar las dependencias:
+    ```bash
+    cd cafe_reactivo
+    npm install
+
+3. Ejecutar la aplicacion: 
+    ```bash
+    npm run dev
 
 
 

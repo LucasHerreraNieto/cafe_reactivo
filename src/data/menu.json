@@ -1,0 +1,14 @@
+[
+    {"name":"Café Latte","description":"Café espresso con leche vaporizada","price":3.5,"image":"/assets/cafe-latte.png"},
+    {"name":"té","description":"Infusión de hierbas","price":3.5,"image":"/assets/te.webp"},
+    {"name":"Medialuna","description":"Medialuna de manteca","price":3.5,"image":"/assets/medialuna.png"},
+    {"name":"Café Latte","description":"Café espresso con leche vaporizada","price":3.5,"image":"/assets/cafe-latte.png"},
+    {"name":"té","description":"Infusión de hierbas","price":3.5,"image":"/assets/te.webp"},
+    {"name":"Medialuna","description":"Medialuna de manteca","price":3.5,"image":"/assets/medialuna.png"},
+    {"name":"Café Latte","description":"Café espresso con leche vaporizada","price":3.5,"image":"/assets/cafe-latte.png"},
+    {"name":"té","description":"Infusión de hierbas","price":3.5,"image":"/assets/te.webp"},
+    {"name":"Medialuna","description":"Medialuna de manteca","price":3.5,"image":"/assets/medialuna.png"},
+    {"name":"Café Latte","description":"Café espresso con leche vaporizada","price":3.5,"image":"/assets/cafe-latte.png"},
+    {"name":"té","description":"Infusión de hierbas","price":3.5,"image":"/assets/te.webp"},
+    {"name":"Medialuna","description":"Medialuna de manteca","price":3.5,"image":"/assets/medialuna.png"}
+]
