@@ -1,6 +1,5 @@
-# Café Reactive
+# Café Reactivo
 
 
-## Expanding the ESLint configuration
 
-# cafe_reactivo
+
